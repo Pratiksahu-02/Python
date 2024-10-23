@@ -1,2 +1,2 @@
 # Python
-All +3 important Codw
+All +3 important Code
