@@ -15,5 +15,5 @@
 </div> 
 
 ###
-[PYTHON](/Python/)
+[PYTHON](/Python/python/)
 ###
