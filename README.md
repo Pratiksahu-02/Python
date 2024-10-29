@@ -1,11 +1,12 @@
 ## Hi there 👋
-
 <br clear="both">
 
-<h3 align="left">This are the important que of +3 python. </h3>
-###
+<h3 align="left">This are the important que of +3 python.</h3>
+<br>
 
-<img align="right" height="150" src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg"  />
+## 
+
+
 
 ###
 
@@ -15,5 +16,6 @@
 </div> 
 
 ###
-[PYTHON](/Python/python)
+[# WAP to demonstrate the usage of various arithmetic operators .](/Python/py1.py)
+###
 ###
