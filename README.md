@@ -17,7 +17,6 @@
 
 ###
 [# WAP to demonstrate the usage of various arithmetic operators .](/Python/py1.py)
-
 [# WAP that makes use off trigonometric functions avilable in math module.](/Python/py2.py)
 
 ###
