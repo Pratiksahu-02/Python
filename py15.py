@@ -3,7 +3,6 @@
 
 print("Enter data of 5 student:")
 l=[]
-
 for i in range(1,3):
     print("Enter data of",i,"student")
     name=input("Enter name of the student:")
@@ -11,5 +10,4 @@ for i in range(1,3):
     age=int(input("Enter age of the student:"))
     c=[name,roll,age]
     l.append(c)
-print(["Name","Roll no.","Age"])
 print(l)
