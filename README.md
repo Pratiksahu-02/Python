@@ -16,10 +16,10 @@
 </div> 
 
 ###
-[# WAP to demonstrate the usage of various arithmetic operators.](/Python/py1.py)
+[1. WAP to demonstrate the usage of various arithmetic operators.](/Python/py1.py)
 
-###
-[# WAP that makes use off trigonometric functions avilable in math module.](/Python/py2.py)
+[2. WAP that makes use off trigonometric functions avilable in math module.](/Python/py2.py)
 
+[3.WAP that will convert various temperatures.* c to f .* f to c](/Python/py3.py)
 ###
 ###
