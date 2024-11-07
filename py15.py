@@ -3,11 +3,14 @@
 
 print("Enter data of 5 student:")
 l=[]
-for i in range(1,3):
+for i in range(1,6):
     print("Enter data of",i,"student")
     name=input("Enter name of the student:")
     roll=int(input("Enter roll number:"))
     age=int(input("Enter age of the student:"))
-    c=[name,roll,age]
+    c=[roll,name,age]
     l.append(c)
-print(l)
+print(["Roll","Name","Age"])
+l.sort()
+for j in l:
+    print(l)
