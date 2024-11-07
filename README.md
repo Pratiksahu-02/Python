@@ -18,8 +18,8 @@
 ###
 [1. WAP to demonstrate the usage of various arithmetic operators.](/py1.py)
 
-[2. WAP that makes use off trigonometric functions avilable in math module.](/Python/py2.py)
+[2. WAP that makes use off trigonometric functions avilable in math module.](/py2.py)
 
-[3.WAP that will convert various temperatures.* c to f .* f to c](/Python/py3.py)
+[3.WAP that will convert various temperatures.* c to f .* f to c](/py3.py)
 ###
 ###
