@@ -21,7 +21,9 @@
 [2. WAP that makes use off trigonometric functions avilable in math module.](/py2.py)
 
 [3.WAP that will convert various temperatures.* c to f .* f to c](/py3.py)
+
 [4.#WAP that will find the roots of a quaduratic equation:ax^2+bx+c=0](/py4.py)
+
 [5.#WAP that demonstrate the user of verious string function.](/py5.py)
 ###
 ###
