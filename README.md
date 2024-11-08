@@ -16,14 +16,14 @@
 </div> 
 
 ###
-[1. WAP to demonstrate the usage of various arithmetic operators.](/py1.py)
+[1. WAP to demonstrate the usage of various arithmetic operators.](/program/py1.py)
 
-[2. WAP that makes use off trigonometric functions avilable in math module.](/py2.py)
+[2. WAP that makes use off trigonometric functions avilable in math module.](/program//py2.py)
 
-[3.WAP that will convert various temperatures.* c to f .* f to c](/py3.py)
+[3.WAP that will convert various temperatures.* c to f .* f to c](/program/py3.py)
 
-[4.WAP that will find the roots of a quaduratic equation:ax^2+bx+c=0](/py4.py)
+[4.WAP that will find the roots of a quaduratic equation:ax^2+bx+c=0](/program/py4.py)
 
-[5.WAP that demonstrate the user of verious string function.](/py5.py)
+[5.WAP that demonstrate the user of verious string function.](/program/py5.py)
 ###
 ###
