@@ -9,7 +9,7 @@ y3=int(input("Enter the y3 point:"))
 
 def straight_line(x1, y1, x2, y2, x3, y3):
     
-    return (x2 - x1) * (y3 - y1) == (y2 - y1) * (x3 - x1)
+    return  x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)
 
 if straight_line(x1, y1, x2, y2, x3, y3):
     print("The points are straight_line.")
