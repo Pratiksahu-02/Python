@@ -6,5 +6,7 @@ while(n>0):
     r=n%10
     s=s+(r**3)
     n=n//10
-print(i)
-print(s)
+if (i==s):
+    print("its a armstrong number")
+else:
+    print("Its not a armstrong number")
