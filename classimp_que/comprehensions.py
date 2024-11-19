@@ -13,3 +13,16 @@ def islist():
     set_using_comp={var for var in input_list if(var%2==0)}
     print("output set using for set comprehensions:",set_using_comp)
 islist()
+print()
+def isdict():
+    input_list=[1,2,3,4,5,6]
+    output_dict={}
+    for var in input_list:
+        if var%2!=0:
+           output_dict[var]=var**3
+    print("output dictionaty using for loop:",output_dict)
+
+    input_list=[1,2,3,4,4,5,5,6,6,6]
+    dict_using_comp={var:var**3 for var in input_list if(var%2!=0)}
+    print("output set using for set comprehensions:",dict_using_comp)
+isdict()
