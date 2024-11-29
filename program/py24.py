@@ -4,8 +4,8 @@
 
 def power(x,n):
     a=x**n
-    print("The solution(x^n) is:",a)
+    return a
 
 x=int(input("Enter the base(x) of the number:"))
 n=int(input("Enter the power(n) of the number:"))
-power(x,n)
+print("The solution(x^n) is:",power(x,n))
