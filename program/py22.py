@@ -18,4 +18,8 @@ for i in range (a):
 s=input("Enter name of the student ")
 for x,j in d.items():
     if (j[0]==s):
-        print(x,j,sep=":")
+        print("roll no",x,j,sep=":")
+        c=1
+
+if(c!=1):
+    print("The data is not present dictionary.")
