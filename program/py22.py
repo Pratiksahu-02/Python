@@ -16,8 +16,6 @@ for i in range (a):
     print()
 
 s=input("Enter name of the student ")
-for x,j in d:
+for x,j in d.items():
     if (j[0]==s):
         print(x,j,sep=":")
-
-#incomplet 
