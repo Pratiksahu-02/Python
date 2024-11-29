@@ -18,7 +18,7 @@ def isdict():
     input_list=[1,2,3,4,5,6]
     output_dict={}
     for var in input_list:
-        if var%2!++=0:
+        if var%2==0:
            output_dict[var]=var**3
     print("output dictionaty using for loop:",output_dict)
 
