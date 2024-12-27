@@ -3,7 +3,7 @@
 
 <h3>
 
-- [Program](/program/readme.md)
+- [Program](/program/README.md)
 - [Class important question](/classimp_que/README.md)
 </h3>
 
