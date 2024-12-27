@@ -15,9 +15,9 @@
 
 ### 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [GitHub](https://github.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in)
+- [Twitter](https://twitter.com)
+- [GitHub](https://github.com/Pratiksahu-02)
 
 ### 🎯 Goals for this Repository:
 
