@@ -1,4 +1,4 @@
-# WAP that will ask you to enter your name through keyword , add perform following opration 
+ # WAP that will ask you to enter your name through keyword , add perform following opration 
 # a.find the middle name .
 # b.find the last name with (using string slicing)
 # c.Re-write the name with surname first.
