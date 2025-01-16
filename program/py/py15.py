@@ -12,5 +12,4 @@ for i in range(1,6):
     l.append(c)
 print(["Roll","Name","Age"])
 l.sort()
-for j in l:
-    print(l)
+print(l)
