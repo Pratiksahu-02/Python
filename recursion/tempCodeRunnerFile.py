@@ -1,0 +1,1 @@
+    print("The number is not a palindrome")
