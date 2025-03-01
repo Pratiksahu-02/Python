@@ -28,11 +28,10 @@ def add():
 
 
 def sub():
-    n=int(input("enter how many number u want to sub:"))
+    x=int(input("Enter a number:"))
+    y=int(input("Enter another number:"))
     sub=0
-    for i in range(n):
-        a=int(input("enter a number:"))
-        sub=sub-a
+    sub=x-y
     print("sub of numbers is:",sub)
     yes()
 
