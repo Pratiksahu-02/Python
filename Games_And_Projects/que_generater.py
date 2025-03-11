@@ -59,5 +59,5 @@ def yes():
     else:
         print("Thank you for using the question generator.")
 
-n=int(input("Enter the number of questions you want to generate:")) 
+n=int(input("Enter the number of questions you want to generate: ")) 
 que_gen(n)
