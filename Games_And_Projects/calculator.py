@@ -1,11 +1,3 @@
-print("choice:")
-print("1.Add")
-print("2.sub")
-print("3.multi")
-print("4.devision")
-print("5.floot devision")
-print("6.power")
-
 def yes():
     print("Do you want to continue(y/n):")
     c=input()
@@ -84,4 +76,15 @@ def fun():
         print("Invalid choice")
         fun()
 
-fun()
+def main():
+    print("choice:")
+    print("1.Add")
+    print("2.sub")
+    print("3.multi")
+    print("4.devision")
+    print("5.floot devision")
+    print("6.power")
+ 
+if __name__=='__main__':
+    main()
+    fun()
