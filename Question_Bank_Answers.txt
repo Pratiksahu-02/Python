@@ -1,0 +1,246 @@
+Question Bank - Answers
+
+a. Which of the following is not a characteristic of computers?
+
+    Answer: III. Emotion
+
+    Explanation: Computers are characterized by their speed, diligence (ability to perform repetitive tasks without tiring), and accuracy. They do not, however, possess emotions.
+
+b. The brain of the computer is :
+
+    Answer: II. CPU
+
+    Explanation: The Central Processing Unit (CPU) is often referred to as the "brain" of the computer because it performs most of the processing.
+
+c. Which of the following is an example of system software?
+
+    Answer: III. Operating System
+
+    Explanation: An operating system is a core type of system software that manages all other software and hardware on a computer. MS Word, Photoshop, and Tally are examples of application software.
+
+d. A flowchart is used for:
+
+    Answer: III. Representing algorithms visually
+
+    Explanation: A flowchart is a diagram that visually represents the sequence of operations and decisions in an algorithm or process.
+
+e. Which one is a secondary storage device?
+
+    Answer: III. Hard Disk
+
+    Explanation: A hard disk is a non-volatile secondary storage device used for long-term data storage. ROM, RAM, and Cache are forms of primary memory.
+
+f. A computer memory with fastest access speed is:
+
+    Answer: III. Cache
+
+    Explanation: Cache memory is a small, high-speed volatile memory that provides high-speed data access to a computer's processor. It is faster than RAM and hard disks.
+
+g. LAN stands for:
+
+    Answer: II. Local Area Network
+
+    Explanation: LAN stands for Local Area Network, a network that connects computers within a limited area like a home, school, or office building.
+
+h. Which operating system type allows multiple users to access the computer at the same time?
+
+    Answer: I. Time sharing
+
+    Explanation: Time-sharing operating systems allow multiple users to share a computer's resources simultaneously by rapidly switching between tasks.
+
+i. Cloud deployment model where services are used by the general public is:
+
+    Answer: III. Public cloud
+
+    Explanation: A public cloud is a deployment model where cloud services are owned and operated by a third-party provider and made available to the general public over the internet.
+
+j. UPI is used for:
+
+    Answer: II. Secure payment interface
+
+    Explanation: Unified Payments Interface (UPI) is a system that powers multiple bank accounts into a single mobile application, facilitating secure and instant fund transfers.
+
+k. A simple model of computer includes:
+* Answer: VI. Input, Process, Output
+* Explanation: The fundamental model of a computer's operation involves receiving input, processing it, and producing an output.
+
+l. Which of the following is not software?
+* Answer: VI. Mouse
+* Explanation: A mouse is a piece of hardware (an input device). A compiler, an operating system, and Microsoft (as a company that produces software) are all related to software.
+
+m. Middleware is used to:
+* Answer: V. Connect software components
+* Explanation: Middleware is software that acts as a bridge between an operating system and the applications on it, enabling communication and data management for distributed applications.
+
+n. An algorithm is:
+* Answer: VI. A sequence of instructions
+* Explanation: An algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.
+
+o. The main function of ROM is:
+* Answer: VI. Store permanent instructions
+* Explanation: Read-Only Memory (ROM) is non-volatile memory used to store permanent instructions, such as the firmware that boots the computer.
+
+p. Cache memory is located:
+* Answer: VII. Between CPU and RAM
+* Explanation: Cache memory is strategically placed between the CPU and the main memory (RAM) to speed up data access.
+
+q. Batch OS executes:
+* Answer: VI. One task at a time without interaction
+* Explanation: A batch operating system processes jobs in batches, one after another, without any user interaction during execution.
+
+r. The physical structure of a network is called:
+* Answer: V. Topology
+* Explanation: Network topology refers to the arrangement of the various elements (links, nodes, etc.) of a computer network.
+
+s. Which of the following is a cloud service?
+* Answer: VI. Google Drive
+* Explanation: Google Drive is a cloud storage service. MS Paint, VLC Media Player, and WinRAR are applications that typically run locally on a computer.
+
+t. e-Banking allows:
+* Answer: VII. Transferring money online
+* Explanation: Electronic banking (e-Banking) primarily facilitates online financial transactions, such as transferring money between accounts.
+
+
+No. 2
+
+a) List any two characteristics of a computer.
+
+Two primary characteristics of a computer are:
+
+    Speed: Computers can process vast amounts of data and execute complex calculations in a fraction of a second. Their speed is often measured in gigahertz (GHz) for processors.
+
+    Diligence: A computer can perform repetitive tasks for long hours without getting tired or losing concentration, maintaining the same accuracy and speed for the first task as for the last.
+
+b) Define firmware with an example.
+
+Firmware is a permanent software program etched into a hardware device's read-only memory (ROM). It provides the low-level instructions that control the device's hardware. An excellent example of firmware is the BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) on a computer's motherboard, which initializes and tests the system hardware during the startup process.
+
+c) Differentiate between system and application software.
+Feature	System Software	Application Software
+Purpose	Manages computer hardware and provides a platform for applications to run.	Performs specific tasks for the end-user.
+Interaction	Generally runs in the background with limited direct user interaction.	The user directly interacts with it.
+Dependency	Is essential for the computer to function; application software cannot run without it.	Is not essential for the computer to function but provides specific capabilities to the user.
+Examples	Operating Systems (Windows, macOS, Linux), Device Drivers, Compilers.	Word Processors (Microsoft Word), Web Browsers (Google Chrome), Photo Editors (Adobe Photoshop).
+
+d) What is the use of a flowchart?
+
+A flowchart is a visual diagram that represents the steps, decisions, and flow of control within an algorithm or process. Its main uses in computer science are:
+
+    Algorithm Design: It helps programmers to logically plan and visualize the sequence of operations before writing code.
+
+    Documentation: It serves as clear documentation for a program, making it easier for others (or the original programmer) to understand the logic later.
+
+    Debugging: It aids in identifying logical errors in a program by tracing the flow of execution step-by-step.
+
+e) Mention any two input devices and their functions.
+
+    Keyboard: A primary input device used for entering alphanumeric data (letters, numbers) and commands into the computer by pressing keys.
+
+    Mouse: A pointing device that allows the user to interact with elements on a graphical user interface (GUI). Its functions include pointing, clicking to select items, and dragging to move them.
+
+f) Define microphone.
+
+A microphone is an input device, a type of transducer, that captures sound waves and converts them into electrical signals. This analog signal is then typically converted into a digital format by a sound card, allowing the computer to process, store, or transmit the audio data for applications like voice recording, online calls, and voice commands.
+
+g) What is a time-sharing operating system?
+
+A time-sharing operating system is a type of OS that allows multiple users to work on the same computer system simultaneously. It achieves this by allocating a small, fixed slice of CPU time to each user's process in a round-robin fashion. The switching between processes happens so rapidly that it creates the illusion that each user has exclusive access to the computer's resources.
+
+h) Define topology in networking. Name any two types.
+
+Definition: Network topology refers to the physical or logical arrangement of the nodes (like computers, switches, routers) and connections in a computer network. It essentially describes the layout of the network.
+
+Two Types of Network Topology:
+
+    Star Topology: All nodes are individually connected to a central device like a hub or a switch. This is one of the most common network topologies.
+
+    Bus Topology: All nodes are connected to a single common backbone cable called the "bus." Data transmitted onto the bus is available to all nodes.
+
+i) Write short notes on UPI and e-Governance.
+
+    UPI (Unified Payments Interface): UPI is an instant, real-time payment system developed by the National Payments Corporation of India (NPCI). It facilitates inter-bank transactions by allowing users to transfer money instantly between bank accounts using a mobile device. It uses a single identifier (like a mobile number or a virtual payment address) to link multiple bank accounts, making digital payments simple and secure.
+
+    e-Governance: e-Governance is the application of Information and Communication Technology (ICT) to deliver government services, exchange information, and manage governmental processes. Its goal is to make government administration more efficient, transparent, accountable, and responsive to the needs of citizens. Examples include online tax filing, digital land records, and online public grievance portals.
+
+j) Define hardware and software.
+
+    Hardware: Refers to the physical, tangible components of a computer system. These are the parts you can physically see and touch, such as the Central Processing Unit (CPU), monitor, keyboard, mouse, hard disk drive, and RAM.
+
+    Software: A set of instructions, data, or programs that tells the computer what to do and how to do it. Software is intangible and is broadly categorized into system software (e.g., Windows) and application software (e.g., Microsoft Word).
+
+k) What is the function of the CPU in a computer?
+
+The Central Processing Unit (CPU) is often called the "brain" of the computer. Its primary functions are:
+
+    Fetch: Retrieves instructions from the computer's memory (RAM).
+
+    Decode: Interprets the instruction to understand what action needs to be performed.
+
+    Execute: Carries out the instruction, which may involve performing arithmetic or logical calculations, moving data, or controlling other components of the computer.
+    The CPU performs these three steps (the machine cycle) continuously to run programs.
+
+l) Explain the use of algorithms in problem-solving.
+
+An algorithm is a finite, well-defined, step-by-step procedure for solving a specific problem or achieving a particular outcome. In problem-solving, especially in programming, algorithms are crucial because they:
+
+    Provide a clear and unambiguous plan before writing code.
+
+    Break down a complex problem into smaller, manageable steps.
+
+    Ensure that the solution is efficient and correct.
+
+    Serve as a basis for creating flowcharts and writing the actual program code.
+
+m) Name any two output devices and their use.
+
+    Monitor: An output device that displays information in visual form. It shows the output of the computer's video card, allowing users to see text, graphics, and video.
+
+    Printer: An output device that produces a hard copy (a physical printout) of text or images from a computer onto paper.
+
+n) Define cache memory. Why is it important?
+
+Definition: Cache memory is a small, extremely fast, and volatile type of computer memory located between the CPU and the main memory (RAM).
+
+Importance: It is important because the CPU can process data much faster than it can be fetched from the much larger, slower RAM. Cache memory stores copies of frequently used data and instructions from RAM. When the CPU needs data, it first checks the cache. If the data is found (a "cache hit"), it can be retrieved almost instantly, significantly speeding up the computer's overall performance by reducing the bottleneck between the fast CPU and slower main memory.
+
+o) Differentiate between RAM and ROM.
+Feature	RAM (Random Access Memory)	ROM (Read-Only Memory)
+Volatility	Volatile: Data is lost when the power is turned off.	Non-volatile: Data is retained even without power.
+Usage	Stores data and programs currently being used by the CPU for active processing.	Stores permanent instructions, like the firmware (BIOS/UEFI), needed to boot the computer.
+Operation	Read and Write operations can be performed.	Data is pre-written and generally cannot be altered by the user (Read-Only).
+Speed	Faster than ROM.	Slower than RAM.
+Size	Typically available in large sizes (e.g., 8 GB, 16 GB).	Smaller in size (e.g., a few megabytes).
+
+p) What are the functions of an operating system?
+
+An operating system (OS) is the primary system software that manages all computer hardware and software resources. Its key functions include:
+
+    Process Management: Manages the creation, scheduling, and termination of processes.
+
+    Memory Management: Allocates and deallocates memory space to various programs.
+
+    File Management: Organizes files and directories on storage devices.
+
+    Device Management: Controls and coordinates peripheral devices through their respective drivers.
+
+    Security: Provides security features like password protection and access control.
+
+    User Interface: Provides a way for the user to interact with the computer, either through a Graphical User Interface (GUI) or a Command Line Interface (CLI).
+
+q) Define LAN and mention its uses.
+
+Definition: A Local Area Network (LAN) is a computer network that interconnects devices within a limited geographical area, such as a single office building, a school campus, or a home. Ethernet and Wi-Fi are the two most common technologies used for LANs.
+
+Uses:
+
+    Resource Sharing: Allows connected devices to share resources like printers, scanners, and storage devices.
+
+    File Sharing: Facilitates easy and fast transfer of files and data between users on the network.
+
+    Internet Connection Sharing: Enables a single internet connection to be shared among all devices on the network.
+
+r) List any two advantages of cloud computing.
+
+    Cost-Effectiveness: Cloud computing eliminates the need for businesses to invest in and maintain their own expensive hardware and data centers. It operates on a pay-as-you-go model, reducing capital expenditure.
+
+    Scalability and Flexibility: Cloud services allow businesses to easily and quickly scale their computing resources up or down based on demand. This provides flexibility and ensures they only pay for the resources they need at any given time.
